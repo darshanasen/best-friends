@@ -1,0 +1,1 @@
+alert('wow cool application, friends 🤝🕺🏻')

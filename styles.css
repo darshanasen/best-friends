@@ -14,3 +14,7 @@ body {
 span {
     border-bottom: 3px solid tomato;
 }
+
+h1 {
+    text-transform: uppercase;
+}
