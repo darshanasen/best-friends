@@ -10,3 +10,7 @@ body {
     background-color: #bada55;
     color: white;
 }
+
+span {
+    border-bottom: 3px solid tomato;
+}
